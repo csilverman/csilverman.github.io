@@ -1,7 +1,9 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages! :D</p>
-</body>
-</html>
+A site
+------
+
+ - Item 1
+ - Item 2
+
+*Hey*
+
+paragraph
