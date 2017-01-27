@@ -1,8 +1,11 @@
 <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
 <style>
 	html {
+		background: #ff0;		
+	}
+	body {
+		background: transparent;
 		font-family: 'Roboto Mono', monospace;
-		background: #ff0;
 	}
 </style>
 
